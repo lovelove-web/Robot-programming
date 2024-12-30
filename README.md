@@ -9,6 +9,12 @@ Table of Contents
 4. How to Run
 5. License
 
+Links to the video: 
+
+https://youtu.be/9q2UwhsaH_Y?si=lk8ApNAGKMBxnnU1
+
+https://youtu.be/DmKBFIH480M?si=OgE1LGYnY__rDnTu
+
 Requirements
 
 - RoboDK: Installed and set up on your machine. Download from https://robodk.com/download.
